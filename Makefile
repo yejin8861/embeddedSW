@@ -1,6 +1,6 @@
 CC = gcc
 CFALGS = -Wall
-OBJS = func1.o myapp.o
+OBJS = func1.o func2.o myapp.o
 TARGET = myapp
 
 $(TARGET): $(OBJS)
