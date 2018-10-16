@@ -28,6 +28,7 @@ void turbo_off()
 int main(void)
 {
 
+  printf("HI YEJIN\n");
   func1();
   func2();
 
